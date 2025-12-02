@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Nicolas Siguero</h1>
 <h3 align="center">A computer science student from Spain</h3>
 
-- 🔭 I’m currently studying at [Gillette College](https://www.gillettecollege.org/))
+- 🔭 I’m currently studying at [Gillette College](https://www.gillettecollege.org/)
 
 - 🌱 I’m currently learning **C# and GO**
 
