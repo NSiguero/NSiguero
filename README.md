@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Nicolas Siguero</h1>
 <h3 align="center">A computer science student from Spain</h3>
 
-- 🔭 I’m currently studying at [Gillette College](https://www.gillettecollege.org/)
+- 🔭 I’m currently studying at [Mount Mercy](https://www.gillettecollege.org/)
 
-- 🌱 I’m currently learning **C# and GO**
+- 🌱 I’m currently learning **AWS and Rust**
 
 - 👨‍💻 All of my projects are available at [https://github.com/NSiguero](https://github.com/NSiguero)
 
